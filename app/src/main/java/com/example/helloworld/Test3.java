@@ -7,4 +7,5 @@ package com.example.helloworld;
  */
 
 public class Test3 {
+    public static final String TAG = Test3.class.getSimpleName();
 }
