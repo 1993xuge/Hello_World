@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d(TAG, "onCreate: xuxadvssdk");
         setContentView(R.layout.activity_main);
         /*     xixhahaxixixhha   */
-
+        
         Log.d(TAG, "oate: hahahhahahahha");
 
     }
