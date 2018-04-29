@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         Log.d(TAG, "onCreate: xuxadvssdk");
         setContentView(R.layout.activity_main);
+        /*     xixhahaxixixhha   */
 
         Log.d(TAG, "onCreate: ");
 
