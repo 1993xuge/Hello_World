@@ -8,6 +8,5 @@ package com.example.helloworld;
 
 public class Test3 {
     public static final String TAG = Test3.class.getSimpleName();
-    public static final String TAG2 = Test3.class.getSimpleName();
 
 }
