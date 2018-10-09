@@ -1,0 +1,3 @@
+[submodule "NiceVieoPlayer"]
+	path = NiceVieoPlayer
+	url = https://github.com/1993xuge/NiceVieoPlayer.git
