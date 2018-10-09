@@ -1,3 +1,6 @@
 [submodule "NiceVieoPlayer"]
 	path = NiceVieoPlayer
 	url = https://github.com/1993xuge/NiceVieoPlayer.git
+[submodule "app/libs/sclib"]
+	path = app/libs/sclib
+	url = http://git.ihandysoft.com/bingroup/bin_socialcontent_android.git
